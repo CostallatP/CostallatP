@@ -1,6 +1,6 @@
 <!--
 <h2 align="center">
-  Welcome to Al Siam World!
+  Welcome to Miguel Costallat Pereira World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 -->
@@ -72,13 +72,12 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![DotNet](https://img.shields.io/badge/dotnet%20version-net4.6).
 
 <br/>
 
 ## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=CostallatP&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/CostallatP/web-projects)
-[![Miguel Costallat Folio](https://github-readme-stats.vercel.app/api/pin/?username=CostallatP&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/CostallatP/al-folio)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=CostallatP&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/CostallatP/alura-studies-Aula2)
+[![Miguel Costallat curriculo](https://github-readme-stats.vercel.app/api/pin/?username=CostallatP&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/CostallatP/curriculo)
 [![Miguel Costallat Readme](https://github-readme-stats.vercel.app/api/pin/?username=CostallatP&repo=CostallatP&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/CostallatP/CostallatP)
 [![Miguel Costallat Teminal](https://github-readme-stats.vercel.app/api/pin/?username=CostallatP&repo=CostallatP.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/CostallatP/CostallatP.github.io)
 

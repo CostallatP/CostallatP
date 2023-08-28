@@ -22,8 +22,8 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://CostallatP.com">Miguel Costallat Pereira</a></b>
-            *************Readme em construção, por favor aguarde!*************
+                <b><a target="_blank" href="https://CostallatP.com">Miguel Costallat Pereira             *************Readme em construção, por favor aguarde!*************
+</a></b>
 
         </samp>
 </h3>

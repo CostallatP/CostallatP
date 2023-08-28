@@ -1,7 +1,6 @@
 <!--
 <h2 align="center">
   Welcome to Miguel Costallat Pereira World!
-  *************Readme em construção, por favor aguarde!*************
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 -->
@@ -24,6 +23,8 @@
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://CostallatP.com">Miguel Costallat Pereira</a></b>
+            *************Readme em construção, por favor aguarde!*************
+
         </samp>
 </h3>
 

@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Miguel+Costallat+Pereira">「 Google Me 」</a>
     <br>
-    「 Sou um desenvolvedor ASP.NET Jr que pretende ser full com REACT, sou do  <b>Brazil</b> 」
+    「 Sou um desenvolvedor ASP.NET Jr que pretende ser full com REACT 」
     <br>
     <br>
   </samp>

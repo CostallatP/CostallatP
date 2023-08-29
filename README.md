@@ -1,6 +1,6 @@
 <!--
 <h2 align="center">
-  Welcome to Miguel Costallat Pereira World!
+  Bem vindo ao github de Miguel Costallat Pereira!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 -->
@@ -21,7 +21,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; Oi Gente!, sou o 
                 <b><a target="_blank" href="https://CostallatP.com">Miguel Costallat Pereira
                 </samp>
 </h3>
@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Miguel+Costallat+Pereira">「 Google Me 」</a>
     <br>
-    「 I am a full stack web appplication developer from <b>Brazil</b> 」
+    「 Sou um desenvolvedor ASP.NET Jr que pretende ser full com REACT, sou do  <b>Brazil</b> 」
     <br>
     <br>
   </samp>
@@ -45,15 +45,15 @@
 <br />
 
 <!-- About Section -->
- # About me
+ # Sobre mim
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: miguel.costallat.p@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/CostallatP/CostallatP/issues)
+ ✌️ &emsp; Jovem padawan em T.I, em busca de aprender o lado full-stack da força <br/><br/>
+ ❤️ &emsp; Amo tecnologias e suas possibilidades<br/><br/>
+ 📧 &emsp; Caso queira entrar em contato o e-mail é miguel.costallat.p@gmail.com<br/><br/>
+ 💬 &emsp; Qualquer pergunta vá para [aqui](https://github.com/CostallatP/CostallatP/issues)
 
 </p>
 
@@ -61,11 +61,13 @@
 <br/>
 <br/>
 
-## Use To Code
+## Codando com
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -100,6 +102,4 @@
   <a href="https://github.com/CostallatP"><img alt="Miguel Costallat Pereira Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=CostallatP&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-
-
-![Al Siam's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=CostallatP&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![snake gif](https://github.com/CostallatP/CostallatP/blob/output/github-contribution-grid-snake.svg)

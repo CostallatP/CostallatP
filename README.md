@@ -74,7 +74,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+![snake gif](https://github.com/CostallatP/CostallatP/blob/output/github-contribution-grid-snake.svg)
 <br/>
 
 <p align="left">
@@ -102,4 +102,4 @@
   <a href="https://github.com/CostallatP"><img alt="Miguel Costallat Pereira Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=CostallatP&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-![snake gif](https://github.com/CostallatP/CostallatP/blob/output/github-contribution-grid-snake.svg)
+

@@ -8,7 +8,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Oi Gente!, sou o 
+        <samp>&gt; Oi Gente! Sou o 
                 <b><a target="_blank" href="https://CostallatP.com">Miguel Costallat Pereira
                 </samp>
 </h3>
